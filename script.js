@@ -21,7 +21,7 @@ const GAMES = [
   {
     name: "Cart Ride for Brainrots 🛤️",
     role: "Programmer",
-    contribution: "Team of 3 programmers.",
+    contribution: "Developed by a team of 3 programmers.",
     studio: "Crafty Savage",
     visits: 6700000,
     link: "https://www.roblox.com/games/105301165956371/Cart-Ride-for-Brainrots",
@@ -31,7 +31,7 @@ const GAMES = [
   {
     name: "Escape Avalanche for Penguins 🐧",
     role: "Programmer",
-    contribution: "Produced within 1 week.",
+    contribution: "Developed within 1 week.",
     studio: "Crafty Savage",
     visits: 1200000,
     link: "https://www.roblox.com/games/93957351921805/Escape-Avalanche-for-Penguins",
@@ -41,7 +41,7 @@ const GAMES = [
   {
     name: "Dig DEEP for Lucky Blocks",
     role: "Programmer",
-    contribution: "Team of 3 programmers.",
+    contribution: "Developed by a team of 3 programmers.",
     studio: "Crafty Savage",
     visits: 1000000,
     link: "https://www.roblox.com/games/104119115051622/Dig-DEEP-for-Lucky-Blocks",
@@ -51,7 +51,7 @@ const GAMES = [
   {
     name: "Rodeo Rumble",
     role: "Programmer",
-    contribution: "Lead programmer for the game.",
+    contribution: "Led gameplay programming and systems.",
     studio: "Rocket Fuel",
     visits: 557000,
     link: "https://www.roblox.com/games/89866359586039/Rodeo-Rumble",
@@ -61,7 +61,7 @@ const GAMES = [
   {
     name: "Make a Plane for Treasure",
     role: "Programmer",
-    contribution: "Contribute to the game.",
+    contribution: "Contributed to gameplay features.",
     studio: "Rocket Fuel",
     visits: 240000,
     link: "https://www.roblox.com/games/73123009277593/Make-a-Plane-for-Treasure",
