@@ -19,6 +19,16 @@ const GAMES = [
     desc: "A Role Playing game set in Dubai, where players can explore the city, own properties, and engage in various activities.",
   },
   {
+    name: "[New] Asterix & Obelix: Village Defense",
+    role: "Programmer",
+    contribution: "Started as Lead Programmer, later co-led development.",
+    studio: "Rocket Fuel",
+    visits: 1000,
+    link: "https://www.roblox.com/games/87404277461525/Asterix-Obelix-Village-Defense",
+    image: "assets/games/Asterix-and-Obelix.png",
+    desc: "A tower defense game where players defend their village from waves of enemies, featuring characters from the Asterix & Obelix universe.",
+  },
+  {
     name: "Cart Ride for Brainrots 🛤️",
     role: "Programmer",
     contribution: "Developed by a team of 3 programmers.",
