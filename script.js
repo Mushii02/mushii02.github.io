@@ -19,15 +19,16 @@ const GAMES = [
     desc: "A Role Playing game set in Dubai, where players can explore the city, own properties, and engage in various activities.",
   },
   {
-    name: "[New] Asterix & Obelix: Village Defense",
-    role: "Programmer",
-    contribution: "Started as Lead Programmer, later co-led development.",
-    studio: "Rocket Fuel",
-    visits: 1000,
-    link: "https://www.roblox.com/games/87404277461525/Asterix-Obelix-Village-Defense",
-    image: "assets/games/Asterix-and-Obelix.png",
-    desc: "A tower defense game where players defend their village from waves of enemies, featuring characters from the Asterix & Obelix universe.",
+    name: "[New 🔥] Stump Duel",
+    role: "Owner",
+    contribution: "Created and developed as a solo project.",
+    studio: "",
+    visits: 12000,
+    link: "https://www.roblox.com/games/115516660229234/Stump-Duel",
+    image: "assets/games/Stump-Duel.png",
+    desc: "",
   },
+
   {
     name: "Cart Ride for Brainrots 🛤️",
     role: "Programmer",
@@ -37,6 +38,16 @@ const GAMES = [
     link: "https://www.roblox.com/games/105301165956371/Cart-Ride-for-Brainrots",
     image: "assets/games/Cart-Ride-for-Brainrots.png",
     desc: "Ride a cart through a challenging obstacle course, collect Brainrots and earn cash for upgrades and rewards.",
+  },
+  {
+    name: "[New] Asterix & Obelix: Village Defense",
+    role: "Programmer",
+    contribution: "Started as Lead Programmer, later co-led development.",
+    studio: "Rocket Fuel",
+    visits: 7000,
+    link: "https://www.roblox.com/games/87404277461525/Asterix-Obelix-Village-Defense",
+    image: "assets/games/Asterix-and-Obelix.png",
+    desc: "A tower defense game where players defend their village from waves of enemies, featuring characters from the Asterix & Obelix universe.",
   },
   {
     name: "Escape Avalanche for Penguins 🐧",
@@ -82,9 +93,9 @@ const GAMES = [
 
 const PROJECTS = [
   // {
-    // title: "system",
-    // video: "bChsHZ9-Fqc",
-    // desc: "A fully functional tank with a custom physics-based rig that simulates tank-like movement. Includes a working cannon and turret, and can be destroyed.",
+  // title: "system",
+  // video: "bChsHZ9-Fqc",
+  // desc: "A fully functional tank with a custom physics-based rig that simulates tank-like movement. Includes a working cannon and turret, and can be destroyed.",
   // },
 ];
 
