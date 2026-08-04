@@ -23,7 +23,7 @@ const GAMES = [
     role: "Owner",
     contribution: "Created and developed as a solo project.",
     studio: "",
-    visits: 12000,
+    visits: 33000,
     link: "https://www.roblox.com/games/115516660229234/Stump-Duel",
     image: "assets/games/Stump-Duel.png",
     desc: "",
