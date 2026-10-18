@@ -1,6 +1,6 @@
 # Mohsin — Portfolio Website
 
-Personal portfolio for Mushii (Roblox Gameplay Engineer).
+Personal portfolio for Mushii (Roblox Full Stack Programmer).
 Plain HTML/CSS/JS — no build tools, no dependencies. Edit a file, refresh the browser, done.
 
 ## Preview locally

@@ -532,7 +532,7 @@ iframe.card-media {
    ========================================================================== */
 .contact-cards {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(230px, 1fr));
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
   gap: 16px;
 }
 
@@ -566,7 +566,7 @@ iframe.card-media {
 
 .contact-value {
   font-weight: 600;
-  word-break: break-all;
+  overflow-wrap: anywhere;
 }
 
 .contact-hint {
