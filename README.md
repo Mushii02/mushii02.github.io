@@ -1,6 +1,6 @@
 # Mohsin — Portfolio Website
 
-Personal portfolio for Wazowski (Roblox Programmer & Game Designer).
+Personal portfolio for Mushii (Roblox Gameplay Engineer).
 Plain HTML/CSS/JS — no build tools, no dependencies. Edit a file, refresh the browser, done.
 
 ## Preview locally
@@ -17,11 +17,13 @@ videos only play when served over http (the local server or the live site).
 | What | Where |
 | --- | --- |
 | Shipped games (cards with thumbnails) | `GAMES` list at the top of `script.js` |
-| Video showcases (tank, weapon framework, etc.) | `PROJECTS` list at the top of `script.js` — `video` is the YouTube video ID (the part after `watch?v=`) |
-| Bio, stats, experience, skills, contact info | `index.html` — each section is marked with a `<!-- ===== SECTION ===== -->` comment |
-| Colors / theme | The `:root` variables at the top of `styles.css` |
+| Video showcases (tank, weapon framework, etc.) | `PROJECTS` list at the top of `script.js` — `video` is the YouTube video ID (the part after `watch?v=`). The Showcase nav link and section stay hidden until this list has at least one entry. |
+| Bio, experience, skills, contact info | `index.html` — each section is marked with a `<!-- ===== SECTION ===== -->` comment |
+| Hero visit / games-shipped stats | Game count comes from the `GAMES` list. Visit totals refresh live from Roblox when the page loads (`visits` is only a fallback). |
+| Colors / theme | The `:root` variables at the top of `style.css` |
 | Game thumbnails | `assets/games/` — 768x432 PNGs pulled from Roblox |
 
 To add a new game: copy one `{ ... }` block in the `GAMES` list, paste it, and edit the
-values. Same for showcases in `PROJECTS`. Visit counts are a snapshot — bump the
-`visits` numbers whenever you feel like it.
+values. Same for showcases in `PROJECTS`. Live visit counts are pulled from Roblox using
+`universeId` (or the place ID in `link`). The `visits` field is only shown if that fetch
+fails.

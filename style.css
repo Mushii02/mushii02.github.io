@@ -21,6 +21,10 @@
   box-sizing: border-box;
 }
 
+[hidden] {
+  display: none !important;
+}
+
 html {
   scroll-behavior: smooth;
   scroll-padding-top: 80px;
@@ -166,10 +170,15 @@ a {
 }
 
 .hero-tagline {
-  max-width: 620px;
+  max-width: 720px;
   margin-top: 20px;
   color: var(--muted);
   font-size: clamp(1rem, 2.2vw, 1.15rem);
+}
+
+.hero-tagline strong {
+  color: var(--text);
+  font-weight: 600;
 }
 
 .hero-actions {
